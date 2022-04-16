@@ -8,7 +8,7 @@
     "compile": "tsc && node ./build/app.js",
     "build": "tsc",
     "test": "lab --sourcemaps --leaks --transform node_modules/lab-transform-typescript -v",
-    "docs": "npx typedoc"
+
   },
   "repository": {
     "type": "git",
