@@ -5,8 +5,7 @@
 A backend wallet solution for emerging blockchains.
 
 * **Modular** code.
-* **ESLint** support.
-* **Tests** included.
+* **Clean** architecture.
 
 ## Main Technologies
 
