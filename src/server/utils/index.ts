@@ -22,7 +22,7 @@ export function response(res?: object | undefined): IResponse {
 }
 
 /**
- * Error function.
+ * Error return function.
  *
  * @remarks
  * Used in server handlers to define our error data.
